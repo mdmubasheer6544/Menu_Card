@@ -1,0 +1,9 @@
+.naveContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 17px;
+    align-items: center;
+    color: #fff;
+    background: #044318e8;
+    box-shadow: 3px 6px 6px rgb(0 0 0 / 60%);
+}
