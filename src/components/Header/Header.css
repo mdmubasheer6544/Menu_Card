@@ -1,9 +1,12 @@
 .naveContainer{
     display: flex;
     justify-content: space-between;
-    padding: 0px 17px;
+    padding: 0 17px;
     align-items: center;
-    color: #fff;
-    background: #044318e8;
-    box-shadow: 3px 6px 6px rgb(0 0 0 / 60%);
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+    color: #333;
+    position: sticky;
+    top: -1px;
+    background: #fff;
+    z-index: 1;
 }
